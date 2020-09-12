@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPAMTask7.1", "EPAMTask7.1\EPAMTask7.1.csproj", "{5C5CC46D-2914-4A55-BEB9-9B5BF64297EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM", "ORM\ORM.csproj", "{5C5CC46D-2914-4A55-BEB9-9B5BF64297EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileExtensions", "FileExtensions\FileExtensions.csproj", "{8226AE27-E7CC-4130-94AB-A2AF3CE0F668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task7UnitTests", "Task7UnitTests\Task7UnitTests.csproj", "{95A56F13-B04A-41C0-A3A5-E5E65ABE2751}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5C5CC46D-2914-4A55-BEB9-9B5BF64297EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C5CC46D-2914-4A55-BEB9-9B5BF64297EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C5CC46D-2914-4A55-BEB9-9B5BF64297EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8226AE27-E7CC-4130-94AB-A2AF3CE0F668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8226AE27-E7CC-4130-94AB-A2AF3CE0F668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8226AE27-E7CC-4130-94AB-A2AF3CE0F668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8226AE27-E7CC-4130-94AB-A2AF3CE0F668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A56F13-B04A-41C0-A3A5-E5E65ABE2751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A56F13-B04A-41C0-A3A5-E5E65ABE2751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A56F13-B04A-41C0-A3A5-E5E65ABE2751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A56F13-B04A-41C0-A3A5-E5E65ABE2751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
